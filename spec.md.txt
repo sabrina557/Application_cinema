@@ -1,0 +1,25 @@
+# Spécification Technique - Application Cinéma
+
+## Fonctionnalités
+- Affichage de 12 films sous forme de cartes
+- Chaque carte contient :
+  - Image du film
+  - Titre
+  - Description
+  - Évaluation par étoiles (1 à 5)
+  - Bouton pour regarder la bande-annonce
+
+## Structure du projet
+- `index.html` : page principale
+- `style.css` : styles pour la grille, cartes et titre moderne
+- `script.js` : génération dynamique des cartes et étoiles
+
+## Design
+- Titre animé et dégradé
+- Cartes centrées, ombrées, avec effet hover
+- Texte et étoiles centrés
+- Grille 4 cartes par ligne pour desktop, responsive
+
+## Déploiement
+- Pousser le projet sur un dépôt GitHub
+- Déployer avec GitHub Pages via `Settings > Pages`
