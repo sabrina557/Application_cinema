@@ -23,3 +23,5 @@
 ## Déploiement
 - Pousser le projet sur un dépôt GitHub
 - Déployer avec GitHub Pages via `Settings > Pages`
+
+## l'URL de l'application Cinema:  https://sabrina557.github.io/Application_cinema/
